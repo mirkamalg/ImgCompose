@@ -1,4 +1,4 @@
-package com.mirkamalg.repositories
+package com.mirkamalg.imgcompose.repositories
 
 import com.mirkamalg.imgcompose.network.exceptions.*
 import retrofit2.Response

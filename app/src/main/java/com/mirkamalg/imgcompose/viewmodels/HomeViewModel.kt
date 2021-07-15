@@ -2,7 +2,7 @@ package com.mirkamalg.imgcompose.viewmodels
 
 import android.app.Application
 import com.mirkamalg.imgcompose.state.HomeState
-import com.mirkamalg.repositories.PhotosRepository
+import com.mirkamalg.imgcompose.repositories.PhotosRepository
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 
